@@ -6,6 +6,8 @@
 This is an interactive network graph that contains all Mitre APTs, Malware, Tools, Techniques & Tactics!
 
 ## Live
+[https://qeeqbox.github.io/mitre-visualizer/](https://qeeqbox.github.io/mitre-visualizer/)
+or
 [https://tools.qeeqbox.com/mitre-visualizer.html](https://tools.qeeqbox.com/mitre-visualizer.html)
 
 ## Interface
