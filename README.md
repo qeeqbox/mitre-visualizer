@@ -12,12 +12,10 @@ This is an interactive network graph that contains all Mitre APTs, Malware, Tool
 <img src="https://raw.githubusercontent.com/qeeqbox/mitre-visualizer/main/readme/intro.png" style="max-width:768px"/>
 
 ## Features
-<ul>
-<li>Mitre APTs, Malware, Tools, Techniques and Tactics</li>
-<li>Optimized canvas (Fast interaction)</li>
-<li>Search function (Target item will be highlighted)</li>
-<li>Zoom-in, zoom-out & reset options</li>
-</ul>
+- Mitre APTs, Malware, Tools, Techniques and Tactics
+- Optimized canvas (Fast interaction)
+- Search function (Target item will be highlighted)
+- Zoom-in, zoom-out & reset options
 
 ## Resources
 d3js.org
