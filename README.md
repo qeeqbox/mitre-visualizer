@@ -1,8 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/mitre-visualizer/main/readme/mitre-visualizer.png"></p>
 
 #
-[![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/mitre-visualizer/main/info&label=version&query=$.version&colorB=blue&style=flat-square)](https://github.com/qeeqbox/mitre-visualizer/blob/main/changes.md)  [![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/mitre-visualizer/main/info&label=build&query=$.dockercomposebuild&colorB=green&style=flat-square)](https://github.com/qeeqbox/mitre-visualizer/blob/main/changes.md) [![Generic badge](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/qeeqbox/mitre-visualizer/main/info&label=test&query=$.automatedtest&colorB=green&style=flat-square)](https://github.com/qeeqbox/mitre-visualizer/blob/main/changes.md) [![Generic badge](https://img.shields.io/static/v1?label=%F0%9F%91%8D&message=!&color=yellow&style=flat-square)](https://github.com/qeeqbox/mitre-visualizer/stargazers)
-
 This is an interactive network graph that contains all Mitre APTs, Malware, Tools, Techniques & Tactics!
 
 ## Live
