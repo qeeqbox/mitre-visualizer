@@ -22,7 +22,7 @@ d3js.org
 By using this framework, you are accepting the license terms of each package listed below:
 Mitre, D3, fontawesome, jquery & javascript
 
-## (Integration Examples)
+## Integration Examples
 - [cryptron.ch](https://www.cryptron.ch/files/Cryptron/mitre-attack-graph/index.html)
 
 ## Other Projects
